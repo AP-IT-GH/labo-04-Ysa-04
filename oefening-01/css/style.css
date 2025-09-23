@@ -1,0 +1,25 @@
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: 2px solid #333;
+    background-color: #f0f0f0;
+    color: #333;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+#b1:hover{
+    background-color: rgb(118, 118, 240);
+    color: white;
+    border: 5px solid lightblue;
+    box-shadow: -5px -5px #777777;
+}
+
+#b2:active {
+    transform: translateY(2px);
+    background-color: fuchsia;
+}
+
+#b3:focus {
+    outline: 8px solid yellow;
+}
