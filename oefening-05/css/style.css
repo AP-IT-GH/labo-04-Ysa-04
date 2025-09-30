@@ -1,0 +1,17 @@
+caption {
+    text-align: center;
+}
+
+th {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    padding: 0.5rem;
+}
+
+td {
+    border: 1px solid black;
+    padding: 0.5rem;
+    text-align: center;
+}
