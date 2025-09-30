@@ -1,0 +1,35 @@
+caption {
+    text-align: center;
+    padding: 2px;
+}
+
+th {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 0.5rem;
+}
+
+td {
+    text-align: center;
+}
+
+.web {
+    background-color: red;
+    color: white;
+}
+
+.data {
+    background-color: blue;
+    color: white;
+}
+
+.essentials {
+    background-color: purple;
+    color: white;
+}
+
+.organisatie {
+    background-color: pink;
+}

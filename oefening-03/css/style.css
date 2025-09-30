@@ -1,0 +1,15 @@
+th {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    font-weight: bold;
+}
+
+tr {
+    text-align: center;
+}
+
+tr:nth-child(3) {
+    background-color: darkgrey;
+}
